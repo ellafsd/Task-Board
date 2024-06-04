@@ -3,7 +3,7 @@ https://ellafsd.github.io/task-board/
 
 ## Screenshots
 
-![Index HTML](images/indexhtml.png)
+![Index HTML](Develop/images/indexhtml.png)
 
 ![Add Task](images/addtask.png)
 
