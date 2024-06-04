@@ -5,8 +5,8 @@ https://ellafsd.github.io/task-board/
 
 ![Index HTML](Develop/images/indexhtml.png)
 
-![Add Task](images/addtask.png)
+![Add Task](Develop/images/addtask.png)
 
-![Add Task 2](images/addtask2.png)
+![Add Task 2](Develop/images/addtask2.png)
 
-![Add Task 3](images/movetasks.png)
+![Add Task 3](Develop/images/movetasks.png)
