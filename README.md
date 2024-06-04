@@ -1,14 +1,12 @@
-
 # Live at: 
 https://ellafsd.github.io/task-board/
 
+## Screenshots
 
-# Screenshots
+![Index HTML](images/indexhtml.png)
 
-![Index HTML](images/index_html.png)
+![Add Task](images/addtask.png)
 
-![Add Task](images/add_task.png)
+![Add Task 2](images/addtask2.png)
 
-![Add Task 2](images/add_task_2.png)
-
-![Add Task 3](images/move_tasks.png)
+![Add Task 3](images/movetasks.png)
