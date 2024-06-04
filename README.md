@@ -3,7 +3,7 @@
 https://ellafsd.github.io/task-board/
 
 
-## Screenshots
+# Screenshots
 
 ![Index HTML](images/index_html.png)
 
