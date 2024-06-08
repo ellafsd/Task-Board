@@ -1,12 +1,16 @@
+# Task Board
+This project is a task board application for managing project tasks and tracking their progress. It features dynamic HTML and CSS, jQuery UI for interactivity, and Day.js for date handling. Users can add, update, and delete tasks with state persistence using localStorage.<br><br>
+
+![Tasks](images/indexhtml.png) <br><br>
+![Tasks](images/addtask.png) <br>
+![Tasks](images/addtask2.png) <br>
+![Tasks](images/movetasks.png) <br><br>
+
 # Live at: 
-https://ellafsd.github.io/task-board/
+https://ellafsd.github.io/task-board/ <br><br>
 
-## Screenshots
 
-![Index HTML](Develop/images/indexhtml.png)
-
-![Add Task](Develop/images/addtask.png)
-
-![Add Task 2](Develop/images/addtask2.png)
-
-![Add Task 3](Develop/images/movetasks.png)
+## Technologies Used
+ HTML <br>
+ CSS <br>
+ jQuery  
